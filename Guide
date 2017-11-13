@@ -11,7 +11,7 @@ apt-get ftp terminator vim
 https://www.opera.com/download/get/?partner=www&opsys=Linux
 dpkg -i opera-stable*
 
-
+>>>>>>>>>>>>>>>>Ferramentas Adicionais<<<<<<<<<<<<<<<<<<<
 
 ====Ngrok = Criador de tuneis para sockets públicos
 https://ngrok.com/
