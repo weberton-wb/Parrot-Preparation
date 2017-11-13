@@ -1,0 +1,30 @@
+Testado no Parrot 3.9
+
+Instalações no OS
+
+apt-get update
+apt-get upgrade
+
+apt-get ftp terminator vim
+
+#Opera
+https://www.opera.com/download/get/?partner=www&opsys=Linux
+dpkg -i opera-stable*
+
+
+
+====Ngrok = Criador de tuneis para sockets públicos
+https://ngrok.com/
+https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+unzip /path/to/ngrok.zip
+./ngrok authtoken xxx(token in lastpass)
+ngrok http 80
+
+
+====Veil = Criador de Malware indetectável
+https://github.com/Veil-Framework/Veil.git
+cd Veil/setup
+./setup.sh
+next>next>finish
+
+./Veil.py
